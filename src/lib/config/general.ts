@@ -60,16 +60,12 @@ export const header: HeaderConfig = {
       link: '/hello-world'
     },
     {
-      text: 'friden',
-      link: '/test/1'
-      },
-    {
       text: 'Elements',
-      link: '/hello-world/el'
+      link: '/hello-world/elements'
     },
     {
       text: 'Friends',
-      link: '/tset'
+      link: '/friends'
     }
   ]
 }
