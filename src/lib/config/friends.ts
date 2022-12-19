@@ -52,13 +52,6 @@ export const friends: Friend[] = [
     avatar: 'https://kwaa.dev/assets/any@512.webp'
   },
   {
-    id: 'test2',
-    title: 'testtest',
-    link: 'https://kwaa.dev',
-    descr: 'testtqsatsatsartsa',
-    avatar: 'https://kwaa.dev/assets/any@512.webp'
-  },
-  {
     id: 'test3',
     title: 'testtest',
     link: 'https://kwaa.dev',
