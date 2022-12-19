@@ -1,7 +1,7 @@
 import type { ThemeConfig, HeadConfig, HeaderConfig, FooterConfig, DateConfig, FeedConfig } from '$lib/types/general'
 
 export const theme: ThemeConfig = [
-   {
+  {
     name: 'valentine',
     text: '🌸 Valentine'
   },
