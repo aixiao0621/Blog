@@ -32,14 +32,6 @@ export const friends: Friend[] = [
     descr: '起风了，唯有努力试着生存',
     avatar: 'https://c.rcex.live:8/IR/United@1x.png'
  },
-   {
-    id: 'id3',
-    name: 'StevenRCE0',
-    title: 'rcex.live',
-    link: 'https://rcex.live',
-    descr: '起风了，唯有努力试着生存',
-    avatar: 'https://c.rcex.live:8/IR/Shape.svg'
- },
   {
     id: 'id1',
     name: 'Trdthg',
