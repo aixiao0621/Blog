@@ -7,4 +7,3 @@ updated: 2022-12-19
 
 # Welcome to Az's Blog!   
 第一个页面。
-test in chromebook
